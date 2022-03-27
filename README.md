@@ -13,11 +13,11 @@ The diary will be analyzed on a daily basis by the bots and will provide feasibl
 # Team Member
 Chhavi Saini - Team Leader 
 
-Ankita Bharti
-Anushka Kumari
-Shivani Singh
-Simran Joon
-Tanya Sinha
+Ankita Bharti  ()
+Anushka Kumari ()
+Shivani Singh  ()
+Simran Joon    ()
+Tanya Sinha    ()
 
 # To view our project PPT, click on the link below
 https://www.canva.com/design/DAE5zW3hIbQ/a4RHbau0UtrPSY-KprAciQ/view?utm_content=DAE5zW3hIbQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#4
