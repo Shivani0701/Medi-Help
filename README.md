@@ -11,17 +11,17 @@ Any Individual can maintain their personalized diary where their daily emotions 
 The diary will be analyzed on a daily basis by the bots and will provide feasible and instant solutions according to the problem. Therapy sessions will be provided on weekly basis based on analysis. An unique feature of tracking user's daily goals will be added by which points can be earned and can be converted into money which one can use for reduce in therapists session.
 
 # Team Member
-Chhavi Saini - Team Leader ()
+Chhavi Saini - Team Leader 
 
-Ankita Bharti  ()
+Ankita Bharti  
 
-Anushka Kumari ()
+Anushka Kumari 
 
-Shivani Singh  ()
+Shivani Singh 
 
-Simran Joon    ()
+Simran Joon 
 
-Tanya Sinha    ()
+Tanya Sinha   
 
 # To view our project PPT, click on the link below
 https://www.canva.com/design/DAE5zW3hIbQ/a4RHbau0UtrPSY-KprAciQ/view?utm_content=DAE5zW3hIbQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
